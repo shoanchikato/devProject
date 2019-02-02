@@ -1,0 +1,46 @@
+Developers Website: 
+
+By virtue of you reading this document you are agreeing to co-operate in this open sorce project, this implies that 
+you will not claim this project as your own but will respect the fact this is an open source project is the solely
+owned by the community and not by any one individual.
+
+Main Purpose is to show case all of the developers in Zimbabwe, this can later on be changed to include other
+creative and professions even such as artists, content creators, etc
+
+One of the problems that the website hopes to solve is to offter a web or internet presence to all of the 
+beautiful, diverse and amazing talent that our country holds, we would also like to network amongst 
+ourselves as well has to be known and seen by the world that we actually exist. This will yield 
+obvious benefits for local individuals as well as for businesses and organizations that would like to 
+co-operate and work with individuals, groups or companies by making the searching process simplier and easier
+with some level of detailed and refinement. 
+
+Work Flow:
+
+There will be a universal home page will communicate the main use of the site and what is site it attempting to 
+achieve. 
+
+There will be a page show casing all of the developers or professionals within there various disciplines and 
+fields of specializations
+
+Each individual can post an avatar picture, provide details about themselves, the technologies (this can be a programming language, frameworks, skill, etc) that they are proficient in. 
+- under each skill the individual can outline the level of profience within those technologies and additional opt to provide links to repo of projects that they once developed or accomplished using those technologies or within that discipline or skill. 
+
+NB: it is not the responsibility of the website to ensure the honesty of the individuals using the website but this can also be accomplished by officiating contracts between individuals, groups or companies with will then give them the right to vote and rate upon an individual's performance. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
